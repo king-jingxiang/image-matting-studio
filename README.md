@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-A lightweight web-based image matting and sprite splitting tool. It removes solid-color backgrounds, generates soft alpha edges, and splits the result into individual rows/elements for export.
+A lightweight web-based image matting and sprite splitting tool. It removes solid-color backgrounds, generates soft alpha edges, and splits the result into individual rows/elements for export. 
 
 ![Vite](https://img.shields.io/badge/vite-5.x-646cff?style=flat&logo=vite)
 ![React](https://img.shields.io/badge/react-18-61dafb?style=flat&logo=react)
